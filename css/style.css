@@ -1,0 +1,99 @@
+.container-14{
+    background: url(../image/photographer.jpg) no-repeat;
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+}
+.div-33{
+    border: 1px solid #ccc;
+    padding: 12px 24px;
+    color: #f1f1f1;
+    text-align: center;
+    position: absolute;
+    top: 22%;
+    left: 35%;
+    letter-spacing: 4px;
+}
+.h1-3{
+    font-size: 48px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+.h5-3{
+    white-space: nowrap;
+    display: none;
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: 400;
+}
+.h3-3{
+    font-weight: 400;
+    font-size: 24px;
+    margin: 10px 0;
+}
+.div-22{
+    margin-top: -15px;
+    width: 40%;
+    padding: 8px;
+    margin-left: 30%;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: #f1f1f1;
+    color: #000;
+    text-align: center;
+}
+.button-2{
+   padding: 8px 16px;
+   text-decoration: none;
+   color: #000;
+}
+.button-2:hover{
+   background-color: #ccc;
+}
+.image-56{
+    width: 90%;
+}
+.div-44{
+    background-color: #f1f1f1;
+    color: #000;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    width: 90%;
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.contact-l{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 400;
+}
+.p-9{
+    text-align: left;
+    font-size: 15px;
+}
+.div-77{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.label-1{
+    font-size: 15px;
+}
+.input-2{
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 8px;
+}
+.button-6{
+    text-decoration: none;
+    color: #fff;
+    background-color: #616161;
+    width: 100%;
+    text-align: center;
+    padding: 8px 16px;
+    border: none;
+}
+.button-6:hover{
+    color: #000;
+    background-color: #ccc;
+}
